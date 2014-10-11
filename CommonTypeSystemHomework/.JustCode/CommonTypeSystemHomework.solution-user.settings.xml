@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="49840fc3-beb0-4555-a6f0-e99069a4ce40">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>Customer/Customer.cs</FileRelativePath>
+        <ProjectRelativePath>Customer/Customer.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>10605250893931768192</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>8605754655926309188</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>Customer/Customers.cs</FileRelativePath>
+        <ProjectRelativePath>Customer/Customer.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>10605250893931768192</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>17826849667834809072</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>Customer/Payment.cs</FileRelativePath>
+        <ProjectRelativePath>Customer/Customer.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>10605250893931768192</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>14705668478983971777</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>Customer/TestCustomer.cs</FileRelativePath>
+        <ProjectRelativePath>Customer/Customer.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>10605250893931768192</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>17803583489414249721</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>
